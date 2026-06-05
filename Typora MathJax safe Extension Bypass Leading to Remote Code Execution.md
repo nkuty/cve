@@ -183,19 +183,19 @@ $$
 
 #### Screenshot 1: PoC file opened in Typora (Linux)
 
-![image-20260605203426645](C:\Users\清隆\AppData\Roaming\Typora\typora-user-images\image-20260605203426645.png)
+<img width="943" height="565" alt="image-20260605203439217" src="https://github.com/user-attachments/assets/d7afc01b-3b03-4ed8-bb97-09dc7b873cc6" />
 
 #### Screenshot 2: Calculator launched after triple-click (Linux)
 
-![image-20260605203512014](C:\Users\清隆\AppData\Roaming\Typora\typora-user-images\image-20260605203512014.png)
+<img width="1178" height="773" alt="image-20260605203512014" src="https://github.com/user-attachments/assets/752fa5f3-f43f-43cc-943b-0e404c68a01f" />
 
 #### Screenshot 3: PoC file opened in Typora (Windows)
 
-![image-20260605204142410](C:\Users\清隆\AppData\Roaming\Typora\typora-user-images\image-20260605204142410.png)
+<img width="1709" height="894" alt="image-20260605204142410" src="https://github.com/user-attachments/assets/1a96bd35-6d98-4af8-aea6-af3b020c1f04" />
 
 #### Screenshot 4: Calculator launched after triple-click (Windows)
 
-![image-20260605204234689](C:\Users\清隆\AppData\Roaming\Typora\typora-user-images\image-20260605204234689.png)
+<img width="1794" height="1143" alt="image-20260605204234689" src="https://github.com/user-attachments/assets/206124dd-6fbe-4deb-8fca-7fa0c9ece014" />
 
 #### Screenshot 5: PoC file opened in Typora (macOS)
 
