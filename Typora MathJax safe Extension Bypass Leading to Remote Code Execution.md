@@ -191,11 +191,11 @@ $$
 
 #### Screenshot 3: PoC file opened in Typora (Windows)
 
-<img width="1709" height="894" alt="image-20260605204142410" src="https://github.com/user-attachments/assets/1a96bd35-6d98-4af8-aea6-af3b020c1f04" />
+<img width="1385" height="613" alt="image" src="https://github.com/user-attachments/assets/b69e2267-1512-40b9-9122-e490b8d36ec6" />
 
 #### Screenshot 4: Calculator launched after triple-click (Windows)
 
-<img width="1794" height="1143" alt="image-20260605204234689" src="https://github.com/user-attachments/assets/206124dd-6fbe-4deb-8fca-7fa0c9ece014" />
+<img width="1495" height="814" alt="image" src="https://github.com/user-attachments/assets/4dd31cd4-3735-4e91-aaad-a9aad58acf91" />
 
 #### Screenshot 5: PoC file opened in Typora (macOS)
 
@@ -315,11 +315,6 @@ Until an official fix is released, users can mitigate this vulnerability by:
 - MathJax Safe Extension: https://docs.mathjax.org/en/latest/options/safe.html
 
 ---
-
-## 12. Contact
-
-flag7856@foxmail.com
-
 ---
 
 ## Appendix A: Full PoC File Content
